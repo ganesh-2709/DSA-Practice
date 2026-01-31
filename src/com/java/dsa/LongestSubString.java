@@ -1,6 +1,7 @@
 package com.java.dsa;
 
 import java.util.HashSet;
+import java.util.Scanner;
 import java.util.Set;
 
 public class LongestSubString {
@@ -36,7 +37,9 @@ public class LongestSubString {
     }
 
     public static void main(String[] args) {
-        String s="abcabcba";
+        Scanner sc= new Scanner(System.in);
+        System.out.println("Enter here value :");
+        String s=sc.next();
         System.out.println(longestSubString(s));
     }
 }
