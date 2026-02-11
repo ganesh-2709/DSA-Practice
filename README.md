@@ -1,2 +1,2 @@
 # DSA-Practice
-Solutions of DSA problems with optimal approaches, test cases, and explanations.
+Solutions to DSA problems with optimal approaches, test cases, and explanations.
