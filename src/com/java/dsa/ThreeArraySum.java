@@ -27,7 +27,7 @@ public class ThreeArraySum {
                 } else l++;
             }
         }
-        System.out.println(list);
+        System.out.println(list); // this is where i have changed
     }
 
     public static void main(String[] args) {
