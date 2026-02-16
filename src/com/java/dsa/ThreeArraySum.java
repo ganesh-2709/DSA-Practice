@@ -27,7 +27,7 @@ public class ThreeArraySum {
                 } else l++;
             }
         }
-        System.out.println(list); // from intillij changes
+        System.out.println(list);
     }
 
     public static void main(String[] args) {
